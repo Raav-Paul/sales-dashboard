@@ -12,7 +12,8 @@ This project demonstrates basic dashboarding using Data Studio. The goal is to t
 
 - Dataset sourced from the [UCI Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
 
-- [Cleaned Data](https://github.com/Raav-Paul/online-retail-data-cleaning-with-python)
+- Data was cleaned in [online-retail-data-cleaning-with-python
+Public](https://github.com/Raav-Paul/online-retail-data-cleaning-with-python)
 
 - Contains transactional sales data from a UK-based online retailer between 2010 and 2011
 
